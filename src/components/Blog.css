@@ -101,7 +101,7 @@
 
 @media (max-width: 600px) {
     .blog-container .entrada {
-        min-width: 450px;
+        width: 350px;
     }
 }
 
