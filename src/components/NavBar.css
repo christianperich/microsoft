@@ -51,12 +51,12 @@
 }
 
 .left {
-    max-width: 20%;
+    max-width: 15%;
     padding-left: 60px;
 }
 
 .center {
-    width: 63%;
+    width: 55%;
 }
 
 .right {
@@ -68,12 +68,12 @@
     
     .center {
         margin-left: 30px;
-        width: 55%;
+        width: 50%;
     }
 
     .right {
         padding-right: 20px;
-        max-width: 400px;
+        max-width: 35%;
     }
 
 }
