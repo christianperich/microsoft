@@ -1,0 +1,34 @@
+[
+    {
+      "imagen":
+        "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Visual-Studio-Icon?wid=297&hei=167&fit=crop",
+      "titulo": "Visual Studio 2022",
+      "descripcion":
+        "Disfruta del IDE más completo para desarrolladores de .NET y C++ en Windows y crea juegos, servicios, aplicaciones web, en la nube, para el escritorio y dispositivos móviles.",
+      "accion": "Descarga Visual Studio 2022"
+    },
+    {
+      "imagen":
+        "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=297&hei=167&fit=crop",
+      "titulo": "Bienvenido a tu Windows 365 Cloud PC",
+      "descripcion":
+        "Disfruta de tu experiencia de Windows en forma segura por streaming desde la nube Microsoft a cualquier dispositivo. ",
+      "accion": "Adquiérelo hoy"
+    },
+    {
+      "imagen":
+        "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=297&hei=167&fit=crop",
+      "titulo": "Participa en la era de la IA",
+      "descripcion":
+        "Crea, comunica y programa con las últimas soluciones de IA de Microsoft.",
+      "accion": "Explora las soluciones de la IA"
+    },
+    {
+      "imagen":
+        "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-For-Business-Woman-Teams-Call?wid=297&hei=167&fit=crop",
+      "titulo": "Prueba Microsoft 365 gratis",
+      "descripcion":
+        "Disfruta de Microsoft Teams, almacenamiento seguro en la nube y aplicaciones exclusivas en los diferentes dispositivos con una prueba gratuita de Microsoft 365 Empresa Estándar durante un mes.",
+      "accion": "Inicia la prueba gratuita"
+    }
+  ]

@@ -1,0 +1,108 @@
+.blog-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+    margin-bottom: 80px;
+}
+
+.blog-container .entradas {
+    max-width: 90%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.blog-container .entrada {
+    width: 300px;
+}
+
+.blog-container .entrada img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.blog-container .entrada h1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.blog-container .entrada p {
+    font-size: 17px;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+
+
+.blog-container .entrada .acciones {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.blog-container .entrada .acciones a {
+    font-weight: 600;
+    color: #6B0E34;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.blog-container .entrada .acciones .arrow {
+    transform: translateY(0.8em);
+    transition: all 0.5s;
+}
+
+.blog-container .entrada .acciones:hover {
+    cursor: pointer;
+}
+
+
+.blog-container .entrada .acciones:hover .arrow {    
+    transform: translate(0.5em, 0.8em);
+}
+
+.blog-container .entrada .acciones:hover a {    
+    text-decoration: underline;
+}
+
+
+@media (max-width: 1450px) {
+    .blog-container .entrada {
+        width: 280px;
+    }
+}
+
+@media (max-width: 1350px) {
+    .blog-container .entrada {
+        width: 250px;
+    }
+}
+
+@media (max-width: 1220px) {
+    .blog-container .entrada {
+        width: 220px;
+    }
+}
+
+@media (max-width: 1080px) {
+    .blog-container .entrada {
+        min-width: 320px;
+    }
+}
+
+@media (max-width: 760px) {
+    .blog-container .entrada {
+        min-width: 220px;
+    }
+}
+
+@media (max-width: 600px) {
+    .blog-container .entrada {
+        min-width: 450px;
+    }
+}
+
+

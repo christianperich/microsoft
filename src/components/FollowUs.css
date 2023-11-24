@@ -1,0 +1,15 @@
+.follow-container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 8ch;
+    font-size: 18px;
+    padding: 5px;
+    margin-bottom: 60px;
+}
+
+.follow-container .iconos {
+    font-size: 22px;
+    margin-left: 25px;  
+    cursor: pointer;  
+    color: rgb(36, 34, 34);
+}

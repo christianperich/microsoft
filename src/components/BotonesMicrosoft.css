@@ -1,0 +1,27 @@
+.botones-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.botones-container .icono{
+    font-size: 40px;
+}
+
+.botones-container a {
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+

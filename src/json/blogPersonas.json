@@ -1,0 +1,34 @@
+[
+    {
+      "imagen":
+        "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Xbox-Series-X-angle-FY24HOL?wid=297&hei=167&fit=crop",
+      "titulo": "Xbox Series X",
+      "descripcion":
+        "Recibe aventuras con la Xbox más rápida y formidable de todas.",
+      "accion": "Comprar Xbox Series X"
+    },
+    {
+      "imagen":
+        "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Bing-AI-No-Text?wid=297&hei=167&fit=crop",
+      "titulo": "Te presentamos el nuevo Bing",
+      "descripcion":
+        "Plantea preguntas verdaderas. Chatea y crea. Recibe respuestas mejores con el copiloto para Internet con tecnología de IA.",
+      "accion": "Infórmate sobre el nuevo Bing"
+    },
+    {
+      "imagen":
+        "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Xbox-Series-S-angle-FY24HOL?wid=297&hei=167&fit=crop",
+      "titulo": "Regala equipos para jugar al mejor precio",
+      "descripcion":
+        "Disfruta de la velocidad y el rendimiento del futuro por un excelente precio con la Xbox Series S en Robot White.",
+      "accion": "Comprar Xbox Series S"
+    },
+    {
+      "imagen":
+        "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Soft-CP-OneDriveCampaignRefresh-2?wid=297&hei=167&fit=crop",
+      "titulo": "Microsoft OneDrive",
+      "descripcion":
+        "Guarda tus archivos y fotos en OneDrive y accede a ellos desde cualquier dispositivo y en cualquier lugar.",
+      "accion": "Más información"
+    }
+  ]
